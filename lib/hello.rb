@@ -6,8 +6,8 @@ def hello_t(array)
       i=i+1
     end
     array
-  else
-    puts "Hey!No clock was given!"
+  else 
+    puts "Hey! No clock was given!"
   end
 
 end
